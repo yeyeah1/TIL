@@ -3,9 +3,9 @@
 - 하루 동안 학습한 내용을 기록한다.
 - 잔디심기에 집착하지 않기 🌱
 ---
-### 규칙
-- 폴더와 파일명은 영문으로 작성한다.
-- 최대한 자세히 기록한다.
-- reference를 명시한다.
----
-### 분류
+## 분류
+
+### AWS
+- [[240615] IAM](https://github.com/yeyeah1/TIL/blob/main/AWS/IAM.md)
+
+### Algorithm
